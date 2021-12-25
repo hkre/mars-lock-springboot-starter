@@ -33,7 +33,7 @@ A distributed lock that supports the use of Redis and Zookeeper, out of the box,
      
 3. [Technology used in the framework](https://github.com/pearstack/lock-spring-boot-starter/network/dependencies)
 
-   |              框架名称               | 版本号  |                  官网                  |
+   |            Frame name               | Version number|       Official website                  |
    | :---------------------------------: | :-----: | :------------------------------------: |
    |       spring-boot-starter-aop       |  2.6.2  | https://spring.io/projects/spring-boot |
    |   spring-boot-starter-validation    |  2.6.2  | https://spring.io/projects/spring-boot |
